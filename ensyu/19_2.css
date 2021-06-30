@@ -22,7 +22,7 @@ a{
 /*ここから*/
 /* flexboxを使った指定：すべてのアイテムに一括指定した場合 */
 .container1{display: flex;}
-.container1 li{flex: 1 1 20px}
+.container1 li{flex: 0 1 20px}
 
 /* flexboxを使った指定：各アイテムに指定した場合 */
 .container2{display: flex;}
